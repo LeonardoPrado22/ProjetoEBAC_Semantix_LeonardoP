@@ -52,4 +52,5 @@ Após o entendimento da base, iniciou-se o processo de modelagem.
 
 📅 **Data:** Outubro / 2025  
 👨‍💻 **Autor:** Leonardo P.  
-📚 **Curso:** Ciência de Dados – EBAC / Parceria SemantiX
+
+📚 **Curso:** Ciência de Dados – EBAC / Parceria Semantix
